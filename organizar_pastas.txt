@@ -1,0 +1,17 @@
+mb_clima_organizacional/
+│
+├── main.py                  # Arquivo principal (app Streamlit)
+├── requirements.txt
+├── logo.png                 # Logotipo usado no front-end
+│
+├── modulos/                   # Páginas individuais do app
+│   ├── uploader.py          # Upload e unificação de dados
+│   ├── dashboard.py         # Dashboard com filtros e visualizações
+│   └── comentarios.py       # Análise de comentários com IA
+│
+├── components/              # Componentes reutilizáveis
+│   ├── filtros.py           # Filtros de dados
+│   ├── visualizacoes.py     # Funções de gráficos e visualizações
+│   └── utils.py         # Funções de NLP para análise de texto
+│
+└── data/                    # (Opcional) Diretório temporário para arquivos
