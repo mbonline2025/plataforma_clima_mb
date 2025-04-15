@@ -1,0 +1,3 @@
+#!/bin/bash
+DIR="/Users/ricardoreis/Downloads/plataforma_clima_mb"
+"$DIR/PlataformaClimaMB"

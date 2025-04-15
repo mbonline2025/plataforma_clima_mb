@@ -1,4 +1,4 @@
-mb_clima_organizacional/
+plataforma_clima_mb/
 │
 ├── main.py                  # Arquivo principal (app Streamlit)
 ├── requirements.txt
@@ -12,6 +12,7 @@ mb_clima_organizacional/
 ├── components/              # Componentes reutilizáveis
 │   ├── filtros.py           # Filtros de dados
 │   ├── visualizacoes.py     # Funções de gráficos e visualizações
-│   └── utils.py         # Funções de NLP para análise de texto
+│   └── utils.py 
+    └── excel_formatador.py        # Funções de NLP para análise de texto
 │
 └── data/                    # (Opcional) Diretório temporário para arquivos
