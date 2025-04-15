@@ -27,3 +27,4 @@ Se estiver usando Git:
 git clone https://github.com/sua-conta/plataforma-clima.git
 cd plataforma-clima
 # plataforma_clima_mb
+# plataforma_clima_mb
